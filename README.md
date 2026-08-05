@@ -33,19 +33,4 @@
   &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=scholardream&theme=tokyonight&hide_border=true" /&gt;
 &lt;/div&gt;
 
----
-
-### 🌱 What I'm up to
-
-- 📝 Studying NLP and building small models from scratch
-- 🤖 Training RL agents to beat players at their own game
-- 💬 Learning how compilers work by writing toy languages
-
----
-
-### 📫 Find me
-
-[![GitHub followers](https://img.shields.io/github/followers/scholardream?style=social)](https://github.com/scholardream)
-![Profile views](https://komarev.com/ghpvc/?username=scholardream&color=blueviolet)
-
 &gt; 💡 *"制作游戏比玩游戏更有乐趣。"*
